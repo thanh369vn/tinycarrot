@@ -69,14 +69,15 @@
 
 
 //v1.2 ----------
-  - Update [Instasize](https://itunes.apple.com/us/app/instasize-photo-editor/id576649830?mt=8)
+  - Update [Instasize Photo Editor](https://itunes.apple.com/us/app/instasize-photo-editor/id576649830?mt=8)<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/f1/ae/a8f1aeb8-1d43-a22b-21fd-9da3eb4f16c6/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/246x0w.jpg" width="25" height="25">
   
     27.04.2019
 
 
 //v1.1 ----------
-  - Update KineMaster.
-  25.04.2019
+  - Update [KineMaster - Pro Video Editor](https://itunes.apple.com/us/app/kinemaster-pro-video-editor/id1223932558?mt=8)<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/96/e3/2f/96e32f81-f777-0203-b937-b26d91bd6656/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" width="25" height="25">
+  
+    25.04.2019
   
   
 //v1.0 ----------
