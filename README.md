@@ -8,6 +8,8 @@
 
 
 ## Current App Status
+![Typorama](https://img.shields.io/badge/Typorama-Working-brightgreen.svg)
+![FilmR](https://img.shields.io/badge/FilmR-Working-brightgreen.svg)
 ![InstaSize](https://img.shields.io/badge/InstaSize-Working-brightgreen.svg)
 ![KineMaster](https://img.shields.io/badge/KineMaster-Working-brightgreen.svg)
 ![DROPS](https://img.shields.io/badge/DROPS-Working-brightgreen.svg)
@@ -59,10 +61,17 @@
 
 
 ## Version history
+//v1.3 ----------
+  - Update [FilmR](https://itunes.apple.com/us/app/filmr-video-photo-editor/id1171358257?mt=8)
+  - Update [Typorama](https://itunes.apple.com/us/app/typorama-text-on-photo-editor/id978659937?mt=8)
+  
+    27.04.2019
+
 
 //v1.2 ----------
-  - Update Instasize.
-  27.04.2019
+  - Update [Instasize](https://itunes.apple.com/us/app/instasize-photo-editor/id576649830?mt=8)
+  
+    27.04.2019
 
 
 //v1.1 ----------
