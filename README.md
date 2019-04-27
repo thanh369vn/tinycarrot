@@ -62,20 +62,20 @@
 
 ## Version history
 //v1.3 ----------
-  - Update [FilmR](https://itunes.apple.com/us/app/filmr-video-photo-editor/id1171358257?mt=8)
-  - Update [Typorama](https://itunes.apple.com/us/app/typorama-text-on-photo-editor/id978659937?mt=8)
+  - Update [FilmR](https://itunes.apple.com/us/app/filmr-video-photo-editor/id1171358257?mt=8) <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4c/78/0e/4c780e49-f7c3-eece-3cdb-c6c64468f7ef/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/246x0w.jpg" width="25" height="25">
+  - Update [Typorama: Text on Photo Editor](https://itunes.apple.com/us/app/typorama-text-on-photo-editor/id978659937?mt=8) <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/06/e9/59/06e9598e-832b-c502-18fa-55963edd2c27/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/246x0w.jpg" width="25" height="25">
   
     27.04.2019
 
 
 //v1.2 ----------
-  - Update [Instasize Photo Editor](https://itunes.apple.com/us/app/instasize-photo-editor/id576649830?mt=8)<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/f1/ae/a8f1aeb8-1d43-a22b-21fd-9da3eb4f16c6/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/246x0w.jpg" width="25" height="25">
+  - Update [Instasize Photo Editor](https://itunes.apple.com/us/app/instasize-photo-editor/id576649830?mt=8) <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/f1/ae/a8f1aeb8-1d43-a22b-21fd-9da3eb4f16c6/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/246x0w.jpg" width="25" height="25">
   
     27.04.2019
 
 
 //v1.1 ----------
-  - Update [KineMaster - Pro Video Editor](https://itunes.apple.com/us/app/kinemaster-pro-video-editor/id1223932558?mt=8)<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/96/e3/2f/96e32f81-f777-0203-b937-b26d91bd6656/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" width="25" height="25">
+  - Update [KineMaster - Pro Video Editor](https://itunes.apple.com/us/app/kinemaster-pro-video-editor/id1223932558?mt=8) <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/96/e3/2f/96e32f81-f777-0203-b937-b26d91bd6656/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" width="25" height="25">
   
     25.04.2019
   
