@@ -23,11 +23,11 @@
 
 ## Hướng Dẫn
 * ### SSL Profile
-  - Các bạn vào link này để cài đặt __SSL Profile__: [__Download SSL Profile__](https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/ssl-profile-2.pem)
+  - Các bạn vào link này để cài đặt __SSL Profile__: [__Download SSL Profile__](https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/SSL-Profile-H1.pem)
     > __Lưu ý: sử dụng trình duyệt Safari trên Ios hoặc copy link bên dưới vào trình duyệt Safari.__
 
     ```
-    https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/ssl-profile-2.pem
+    https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/SSL-Profile-H1.pem
     ```
     
   - Hướng Dẫn Cài Đặt:
