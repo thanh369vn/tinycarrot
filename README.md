@@ -8,6 +8,8 @@
 
 
 ## Current App Status
+![Photo Lab](https://img.shields.io/badge/PhotoLab-Working-brightgreen.svg)
+![Launcher Center Pro](https://img.shields.io/badge/LauncherCenterPro-Working-brightgreen.svg)
 ![Typorama](https://img.shields.io/badge/Typorama-Working-brightgreen.svg)
 ![FilmR](https://img.shields.io/badge/FilmR-Working-brightgreen.svg)
 ![InstaSize](https://img.shields.io/badge/InstaSize-Working-brightgreen.svg)
