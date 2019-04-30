@@ -4,10 +4,11 @@
 [![Server Status](https://img.shields.io/badge/Server%20Status-Maintenance-yellow.svg)](https://github.com/tinycarrot/tinycarrot)
 ![Platform](https://img.shields.io/badge/platform-Iphone%20%7C%20Ipad-lightgrey.svg)
 ![App](https://img.shields.io/badge/VPN%20App-WeBlock%20%7C%20Quantumult-brightgreen.svg)
-![Version](https://img.shields.io/badge/Version-v1.3-orange.svg)
+![Version](https://img.shields.io/badge/Version-v1.4-orange.svg)
 
 
 ## Current App Status
+![Nomo](https://img.shields.io/badge/Nomo-Working-brightgreen.svg)
 ![Photo Lab](https://img.shields.io/badge/PhotoLab-Working-brightgreen.svg)
 ![Launcher Center Pro](https://img.shields.io/badge/LauncherCenterPro-Working-brightgreen.svg)
 ![Typorama](https://img.shields.io/badge/Typorama-Working-brightgreen.svg)
