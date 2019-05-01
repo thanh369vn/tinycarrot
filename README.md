@@ -8,7 +8,7 @@
 
 
 ## Current App Status
-![Infltr](https://img.shields.io/badge/Infltr-Working-brightgreen.svg)
+[![Infltr](https://img.shields.io/badge/Infltr-Working-brightgreen.svg)](https://itunes.apple.com/us/app/infltr-infinite-filters/id935623257?mt=8)
 ![Prequel](https://img.shields.io/badge/Prequel-Working-brightgreen.svg)
 ![Nomo](https://img.shields.io/badge/Nomo-Working-brightgreen.svg)
 ![Photo Lab](https://img.shields.io/badge/PhotoLab-Working-brightgreen.svg)
