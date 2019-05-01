@@ -8,7 +8,7 @@
 
 
 ## Current App Status
-![Prequel](https://img.shields.io/badge/Nomo-Working-brightgreen.svg)
+![Prequel](https://img.shields.io/badge/Prequel-Working-brightgreen.svg)
 ![Nomo](https://img.shields.io/badge/Nomo-Working-brightgreen.svg)
 ![Photo Lab](https://img.shields.io/badge/PhotoLab-Working-brightgreen.svg)
 ![Launcher Center Pro](https://img.shields.io/badge/LauncherCenterPro-Working-brightgreen.svg)
