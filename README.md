@@ -8,6 +8,7 @@
 
 
 ## Current App Status
+[![VideoShow](https://img.shields.io/badge/VideoShow-Working-brightgreen.svg)](https://itunes.apple.com/us/app/videoshow-video-editor-maker/id930380089?mt=8)
 [![Infltr](https://img.shields.io/badge/Infltr-Working-brightgreen.svg)](https://itunes.apple.com/us/app/infltr-infinite-filters/id935623257?mt=8)
 ![Prequel](https://img.shields.io/badge/Prequel-Working-brightgreen.svg)
 ![Nomo](https://img.shields.io/badge/Nomo-Working-brightgreen.svg)
