@@ -30,11 +30,11 @@
 
 ## Hướng Dẫn
 * ### SSL Profile
-  - Các bạn vào link này để cài đặt __SSL Profile__: [__Download SSL Profile__](https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/SSL-Profile-H1.pem)
+  - Các bạn vào link này để cài đặt __SSL Profile__: [__Download SSL Profile__](https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/SSL_Profile_190525.pem)
     > __Lưu ý: sử dụng trình duyệt Safari trên Ios hoặc copy link bên dưới vào trình duyệt Safari.__
 
     ```
-    https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/SSL-Profile-H1.pem
+    https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/SSL_Profile_190525.pem
     ```
     
   - Hướng Dẫn Cài Đặt:
@@ -59,10 +59,10 @@
                     Settings > Download from ...
                     ```___
                     
-    * Copy đường dẫn bên dưới paste vào url trong ___Quantumult___: [___Quantumult Profile Config___](https://github.com/tinycarrot/tinycarrot/raw/master/Profile/quantumult_20190422.conf)             
+    * Copy đường dẫn bên dưới paste vào url trong ___Quantumult___: [___Quantumult Profile Config___](https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/quantumult-190525.conf)             
    
     ```
-    https://github.com/tinycarrot/tinycarrot/raw/master/Profile/quantumult_20190422.conf
+    https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/Profile/quantumult-190525.conf
     ```
     ![](https://github.com/tinycarrot/tinycarrot/raw/master/Picture/IMG_3814.JPG)
 
