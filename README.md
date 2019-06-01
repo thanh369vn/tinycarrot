@@ -8,6 +8,9 @@
 
 
 ## Current App Status
+[![Lightroom](https://img.shields.io/badge/Lightroom-Working-brightgreen.svg)](https://itunes.apple.com/vn/app/adobe-lightroom/id878783582?l=vi&mt=8)
+[![Beauty Plus](https://img.shields.io/badge/BeautyPlus-Working-brightgreen.svg)](https://itunes.apple.com/us/app/beautyplus-ch%E1%BB%89nh-s%E1%BB%ADa-%E1%BA%A3nh/id622434129?l=vi&mt=8)
+[![Wallpaper Carnival](https://img.shields.io/badge/WallpaperCarnival-Working-brightgreen.svg)](https://itunes.apple.com/vn/app/wallpaper-carnival/id1382129188?l=vi&mt=8)
 [![VivaVideo](https://img.shields.io/badge/VivaVideo-Working-brightgreen.svg)](https://itunes.apple.com/us/app/vivavideo-best-video-editor/id738897668?mt=8)
 [![VideoShow](https://img.shields.io/badge/VideoShow-Working-brightgreen.svg)](https://itunes.apple.com/us/app/videoshow-video-editor-maker/id930380089?mt=8)
 [![Infltr](https://img.shields.io/badge/Infltr-Working-brightgreen.svg)](https://itunes.apple.com/us/app/infltr-infinite-filters/id935623257?mt=8)
