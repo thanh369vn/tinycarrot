@@ -46,7 +46,7 @@
     - Tin cậy chứng chỉ: ___```
           Setting > General > About > Certificate Trust Setting > Charles Proxy CA > On
                             ```___
-    ![](https://github.com/tinycarrot/tinycarrot/raw/master/Picture/IMG_3808.JPG)
+    ![](https://github.com/tinycarrot/tinycarrot/raw/master/Picture/VideoShow-cover-02%402x.png)
     
   
 
