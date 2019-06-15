@@ -8,6 +8,8 @@
 
 
 ## Current App Status
+[![Busuu](https://img.shields.io/badge/Busuu-Working-brightgreen.svg)](https://apps.apple.com/us/app/busuu-language-learning/id379968583)
+[![Camera360](https://img.shields.io/badge/Camera360-Working-brightgreen.svg)](https://apps.apple.com/vn/app/camera360-tr-c3-acnh-s-e1-bb-ada-e1-ba-a3nh-selfie/id443354861?l=vi)
 [![Lightroom](https://img.shields.io/badge/Lightroom-Working-brightgreen.svg)](https://itunes.apple.com/vn/app/adobe-lightroom/id878783582?l=vi&mt=8)
 [![Beauty Plus](https://img.shields.io/badge/BeautyPlus-Working-brightgreen.svg)](https://itunes.apple.com/us/app/beautyplus-ch%E1%BB%89nh-s%E1%BB%ADa-%E1%BA%A3nh/id622434129?l=vi&mt=8)
 [![Wallpaper Carnival](https://img.shields.io/badge/WallpaperCarnival-Working-brightgreen.svg)](https://itunes.apple.com/vn/app/wallpaper-carnival/id1382129188?l=vi&mt=8)
