@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<plist version="1.0">
+<dict>
+<key>pings</key>
+<array></array>
+<key>jingleDocType</key><string>purchaseSuccess</string>
+<key>jingleAction</key><string>purchaseProduct</string>
+<key>status</key><integer>0</integer>
+
+<key>authorized</key><false/><key>download-queue-item-count</key><integer>1</integer>
+<key>songList</key>
+<array>
+<dict>
+<key>songId</key><integer>1381206010</integer>
+<key>URL</key><string>http://iosapps.itunes.apple.com/itunes-assets/Purple123/v4/ac/40/bb/ac40bbf0-e1e4-329f-db74-b7dec139ea2c/pre-thinned2227150193657642271.lc.7416673323349632.KZ4EEQLNJSW3G.signed.dpkg.ipa?accessKey=1563204918_5438083483215107775_kz6R84H8caaQU4OPa9la%2Fomzu6G8nKTtDbm%2F23TXj6zCaJmPeVepvAk68swU%2BmCqoYQOUeJsTnxOYRsEalX8mTVVdI7dTOlzBnP2kZxLqtSsM0UoLuGSdjELVpZbVzKlJRzxtZNeW9r%2FlE%2BNbFfcbkTSiF3rVy1oUxucoxCINcSTqfuNeIqwEMG8umRAJR42Bgv%2FQqf8g%2F9HRWqRPDqyfZZ0k4748i7V0kdbHMcjraPWG%2FX2WdkW5ET5dC1KaAyh</string>
+<key>downloadKey</key><string>expires=1563010518~access=/itunes-assets/Purple123/v4/ac/40/bb/ac40bbf0-e1e4-329f-db74-b7dec139ea2c/pre-thinned2227150193657642271.lc.7416673323349632.KZ4EEQLNJSW3G.signed.dpkg.ipa*~md5=a25654b49448f2ac17db4fa3d5b37817</string>
+  <key>local-server-info</key>
+  <dict>
+  </dict>
+
+<key>artworkURL</key><string>https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/07/be/e607bebb-3980-5887-9de0-7df328c371a0/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/2000x2000bb.jpg</string><key>artwork-urls</key>
+<dict>
+<key>image-type</key><string>download-queue-item</string>
+<key>default</key>
+<dict>
+<key>url</key>
+<string>https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/07/be/e607bebb-3980-5887-9de0-7df328c371a0/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/57x57bb.jpg</string>
+</dict>
+</dict>
+<key>is-purchased-redownload</key><true/><key>md5</key><string>2b86a6cde4e8eb350b25ba3594abe6f6</string><key>chunks</key>
+<dict>
+<key>chunkSize</key><integer>10485760</integer>
+<key>hashes</key>
+<array>
+<string>4abf8f3b04b4a7a06bcd5cb58ddcab4f</string>
+<string>b475864f1fabd722c7f5d6edfb4938db</string>
+<string>19abd4309a1f23197f5a2f42df8c3773</string>
+<string>cef575aa4a1266573e03d49ace4777e3</string>
+<string>b6801e99ca40d5d7948163fc89eced4f</string>
+<string>5bd708a18bfee3689d8107189efe2bb5</string>
+<string>acf1785ee47118467bda03f124071bcd</string>
+<string>66260e7971261b8b5042d5bda049b3d9</string>
+<string>ec3a4ccf41d8df6a5229809ae2dcf4b1</string>
+<string>8d283e591f43321f5c7997154c0e9f20</string>
+<string>d9984f57859e0fb35e726e47c870ca45</string>
+<string>4b60afd68e34b36455bbcc9cecf5b7c1</string>
+<string>98c9f1e1a37c91bd6d6d9a6336b83430</string>
+</array>
+</dict>
+<key>isStreamable</key><true/>
+<key>uncompressedSize</key><integer>143277056</integer>
+<key>sinfs</key><array>  <dict>    <key>id</key>    <integer>0</integer>    <key>sinf</key>    <data>AAAEIHNpbmYAAAAMZnJtYWdhbWUAAAAUc2NobQAAAABpdHVuAAAAAAAAA3BzY2hpAAAADHVzZXLgbHm8AAAADGNyZHTZT1ZWAAAADGFzZHQAAAAAAAAADGtleSAAAAAFAAAAGGl2aXbDA2zZXIwvSE8jPbsu34BuAAAAWHJpZ2h2ZUlEABm6l3BsYXQAAAABYXZlcgEBAQB0cmFu2U9WVnNpbmcAAAAAc29uZ1JTh/p0b29sUDUzNm1lZGkAAACAbW9kZQAAAABoaTMyAAAAAwAAAQhuYW1lVGllbiBDYW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcBwcml2BXGE23p6mOXRPGf/bQeqKu7b6PyCNh9d6cFjqGQh3SNabd7xi6KZsVgQDDJsnGoc+rRZjpK8yeLFLMdfOJ+GFPrZGNbcei1pW/qPcSNRCSJozzoHBPtlQHHNH07eKOmrRe05+OAmGavqcgDavpC1jQQKBFhh73Dzsfr+/Neu8NonM7cZ2tro9VjICuXaNxQA4BKZ7CJ45g0zr0aDTfQFSKykkJjOau67xuaXSAsuMNiQ/MSzHS1ozb0QsqGx5kD61sNwnhzTQhCv6P27vfhPeuybYKNzgMbU0SqUoafF7++h6SF4h6ySimJTCe13l+2zh+PJw6VKNzYgV38pumOXeARkGHRBx4KubazOEeNPh9+pWDi0lI4u7TbeiScKeD5MNPqOBlMxzACw6YFlLtcVyQ0WJcstCwHgdhY/nn2lwNuqo2O+rX4G5fWSMqwyun3gBc8yWyC77dSu5xdyAoIu7WKr3cJJYlXBg/VtGbUsf+WpWCJ3E37v4sq0zLt7YOnmLLhvK8eZOzjt7VyQfFBbzUHv74UT+aTab/hMGSiGo4FUH978J5609ihdpUlVU7oMAAAAAAAAAAAAAACIc2lnbl1xdHSwzMc6HkLTyRkPRsJ1fB5LTJw8Ev8tcNVOYU5cYumc7qQ2LeibDuLdkfQc+kSCb93kV+pehj3hocf9uzwJbDzlpk5GOzuZy62opFvp+xcjwJtT4mq1aPhOUeMDmK/qfcJvMJ2myaJb52DoqwK6fGtsaszOxM5hiBh/oMdj</data>  </dict></array><key>purchaseDate</key><string>2019-06-06T08:45:01Z</string>
+<key>download-id</key><string>J12N_C_120058900282822</string>
+
+  <key>asset-info</key>
+  <dict>
+    <key>file-size</key><integer>134290924</integer>
+    <key>flavor</key><string>10:purple</string>
+  </dict>
+<key>metadata</key><dict>
+  
+  <key>UIRequiredDeviceCapabilities</key>
+  <dict>
+    <key>arm64</key><true/>
+    <key>opengles-3</key><true/>
+  </dict>
+  <key>artistId</key><integer>606310584</integer>
+  <key>artistName</key><string>Lightricks Ltd.</string>
+  <key>bundleDisplayName</key><string>Pixaloop</string>
+  <key>bundleShortVersionString</key><string>1.2.9</string>
+  <key>bundleVersion</key><string>507</string>
+  <key>copyright</key><string>&#169; 2018 Lightricks Ltd.</string>
+  <key>fileExtension</key><string>.app</string>
+  <key>gameCenterEnabled</key><false/>
+  <key>gameCenterEverEnabled</key><false/>
+  <key>genre</key><string>Photo &amp; Video</string>
+  <key>genreId</key><integer>6008</integer>
+  <key>itemId</key><integer>1381206010</integer>
+  <key>itemName</key><string>Enlight Pixaloop - Move Photos</string>
+  <key>kind</key><string>software</string>
+  <key>playlistName</key><string>Lightricks Ltd.</string>
+  <key>product-type</key><string>ios-app</string>
+  <key>rating</key>
+  <dict>
+    <key>content</key><string>Advisory.NO.UNRESTRICTED_WEB_ACCESS and Advisory.NO.GAMBLING_CONTESTS</string>
+    <key>label</key><string>4+</string>
+    <key>rank</key><integer>100</integer>
+    <key>system</key><string>itunes-games</string>
+  </dict>
+  <key>releaseDate</key><string>2018-09-09T23:00:14Z</string>
+  <key>s</key><integer>143471</integer>
+  <key>softwareIcon57x57URL</key><string>https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/07/be/e607bebb-3980-5887-9de0-7df328c371a0/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/114x114bb.jpg</string>
+  <key>softwareIconNeedsShine</key><false/>
+  <key>softwareSupportedDeviceIds</key>
+  <array>
+    <integer>2</integer>
+    <integer>9</integer>
+    <integer>4</integer>
+  </array>
+  <key>softwareVersionBundleId</key><string>com.lightricks.Enlight-Phoenix</string>
+  <key>softwareVersionExternalIdentifier</key><integer>831879597</integer>
+  <key>softwareVersionExternalIdentifiers</key>
+  <array>
+    <integer>826940533</integer>
+    <integer>827843220</integer>
+    <integer>827941318</integer>
+    <integer>828083557</integer>
+    <integer>828227460</integer>
+    <integer>828414507</integer>
+    <integer>828461436</integer>
+    <integer>828482962</integer>
+    <integer>828567025</integer>
+    <integer>828584458</integer>
+    <integer>828984043</integer>
+    <integer>829185847</integer>
+    <integer>829310095</integer>
+    <integer>829578793</integer>
+    <integer>829634112</integer>
+    <integer>829682697</integer>
+    <integer>829779784</integer>
+    <integer>830021872</integer>
+    <integer>830208328</integer>
+    <integer>830401201</integer>
+    <integer>830769974</integer>
+    <integer>830870944</integer>
+    <integer>830905673</integer>
+    <integer>831178049</integer>
+    <integer>831321373</integer>
+    <integer>831445846</integer>
+    <integer>831489180</integer>
+    <integer>831736071</integer>
+    <integer>831848422</integer>
+    <integer>831879597</integer>
+    <integer>831966840</integer>
+  </array>
+  <key>vendorId</key><integer>1686167</integer>
+
+<key>drmVersionNumber</key><integer>0</integer>
+<key>versionRestrictions</key><integer>16843008</integer>
+<key>storeCohort</key><string>7|date=1559809800000&amp;sf=143471&amp;pgtp=Artist&amp;pgid=606310584&amp;prpg=Software_1254875992&amp;ctxt=Search</string>
+</dict>
+
+</dict>
+</array>
+
+    <key>download-queue-info</key>
+<dict>
+<key>download-queue-item-count</key><integer>1</integer>
+<key>dsid</key><integer>16650107324</integer>
+<key>is-auto-download-machine</key><false/>
+
+    </dict>
+    <key>metrics</key>
+<dict>
+
+  <key>itemIds</key>
+  <array>
+    <integer>1381206010</integer>
+  </array>
+  <key>pliIds</key>
+  <array>
+    <string>32059179163800</string>
+  </array>
+  <key>price</key><real>0.00</real>
+  <key>currency</key><string>VND</string>
+  <key>exchangeRateToUSD</key><real>0.000043099499999999996</real>
+  <key>priceType</key><string>STDRDL</string>
+  <key>productTypes</key>
+  <array>
+    <string>C</string>
+  </array>
+  <key>sapTypes</key>
+  <array>
+    <string>3F</string>
+  </array>
+  <key>sapLineItemTypes</key>
+  <array>
+    <string>0</string>
+  </array>
+  <key>mtApp</key><string>com.apple.iTunes</string>
+  <key>mtClientId</key><string>3zxVt6IzDWGz5E7zCfWztq7O3dgP</string>
+  <key>mtEventTime</key><string>2019-07-13 09:35:17 Etc/GMT</string>
+  <key>mtPageContext</key><string>App Store</string>
+  <key>mtPageId</key><string>1381206010</string>
+  <key>mtPageType</key><string>Software</string>
+  <key>mtPrevPage</key><string>Genre_133005</string>
+  <key>mtRequestId</key><string>3zxVt6IzDWGz5E7zCfWztq7O3dgPzJY1C3U6Rz848</string>
+  <key>mtTopic</key><string>xp_its_main</string>
+</dict>
+<key>subscriptionStatus</key>
+<dict>
+<key>music</key>
+<dict>
+<key>status</key><string>Disabled</string>
+<key>reason</key><string>null</string>
+<key>isAdmin</key><false/>
+<key>isNotEligibleForFreeTrial</key><false/>
+</dict>
+<key>terms</key>
+<array>
+<dict>
+<key>type</key><string>Store</string>
+<key>latestTerms</key><integer>23</integer>
+<key>agreedToTerms</key><integer>23</integer>
+<key>source</key><string>account</string>
+</dict>
+</array>
+<key>account</key>
+<dict>
+<key>isMinor</key><false/>
+<key>suspectUnderage</key><false/>
+</dict>
+<key>family</key>
+<dict>
+<key>hasFamily</key><false/>
+</dict>
+</dict>
+</dict>
+</plist>
