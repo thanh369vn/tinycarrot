@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://storage.googleapis.com/freeiapdata/Nomo/nomo-1.5.48-tinycarrot.ipa</string>
+					<string>https://storage.googleapis.com/freeiapdata/Nomo/nomo-1.5.48-nosign.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -25,7 +25,7 @@
 				<key>subtitle</key>
 				<string>41A472</string>
 				<key>title</key>
-				<string>NOMO</string>
+				<string>NOMO 2</string>
 			</dict>
 		</dict>
 	</array>
