@@ -13,7 +13,7 @@ obj = {
 		"source": 1,
 		"payment_type": 4,
 		"invalid_reason": 2,
-		"is_active": false,
+		"is_active": true,
 		"is_in_grace_period": false
 	},
 	"created_at": "2019-10-21T21:22:39.719371376Z"
