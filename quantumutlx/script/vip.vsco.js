@@ -7,7 +7,6 @@ let obj = JSON.parse(body);
 
 if (url.indexOf(path1) != -1) {
 	obj.user_subscription["is_active"] = true;
-  	obj.user_subscription.sub32["name"] = 2;
 	body = JSON.stringify(obj);  
  }
 
