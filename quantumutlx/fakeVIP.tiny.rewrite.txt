@@ -5,4 +5,4 @@ hostname = vsco.co, buy.itunes.apple.com
 ^https?:\/\/vsco\.co\/api\/subscriptions\/2.1\/user-subscriptions\/ url script-response-body https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/script/vip.vsco.v3.js
 
 # Magi+
-;^http://buy\.itunes\.apple\.com/verifyReceipt url script-response-body http://example.com/new-resource3/
+;^http://buy\.itunes\.apple\.com/verifyReceipt url script-response-body https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/script/vip.magi%2B.js
