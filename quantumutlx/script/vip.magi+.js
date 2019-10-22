@@ -1,7 +1,7 @@
 
 var obj = JSON.parse($response.body);
 let id = obj.receipt['adam_id'];
-if(id == 1454351170){
+if(id == 1454351172){
         obj = {
   "status": 0,
   "environment": "Production",
