@@ -1,7 +1,7 @@
 var body = $response.body;
 var url = $request.url;
 
-const path1 = '/v1/subs_offer_elg/';
+const path1 = '/v1/subs_offer_elg';
 
 let obj = JSON.parse(body);
 
