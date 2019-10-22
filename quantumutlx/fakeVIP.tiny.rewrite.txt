@@ -8,4 +8,4 @@ hostname = vsco.co, buy.itunes.apple.com, api-intl.mr.meitu.com
 ^https://buy\.itunes\.apple\.com/verifyReceipt url script-response-body https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/script/vip.magi%2B.js
 
 # --- Beauty Plus ---
-^https://api-intl\.mr\.meitu\.com/v1/(pur_verify_receipt|subs_offer_elg) url script-response-body https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/script/vip.beautyplus.js
+^https://api-intl\.mr\.meitu\.com/v1/subs_offer_elg url script-response-body https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/script/vip.beautyplus.js
