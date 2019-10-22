@@ -1,20 +1,17 @@
 var body = $response.body;
 var url = $request.url;
 
-# host: api-intl.mr.meitu.com
 const path1 = '/v1/pur_verify_receipt';
 const path2 = '/v1/subs_offer_elg';
 
 let obj = JSON.parse(body);
 
-# Path1 -----------------------
 if (url.indexOf(path1) != -1) {
 	obj = {
 	"status": 0,
 	"expires_date": "2099-06-06 11:57:41 Etc\/GMT"
 };
-
-# Path2 -----------------------
+};
 if (url.indexOf(path2) != -1) {
 	obj = {
 	"status": 0,
@@ -23,7 +20,7 @@ if (url.indexOf(path2) != -1) {
 	"vip_product_id": "com.commsource.beautyplus.subscription.1year.25discount.new.users.1205testA",
 	"timestamp": 1571765204000
 };
-
+};
 $done({body: JSON.stringify(obj)});
 
 // Vip BeautyPlus by Tiny.
