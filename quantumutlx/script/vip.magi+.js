@@ -7,7 +7,7 @@ if(id == 1454351172){
 		"receipt_type": "Production",
 		"adam_id": 1454351172,
 		"app_item_id": 1454351172,
-		"bundle_id": "com.video.magicam",
+		"bundle_id": "com.video.magicam2",
 		"application_version": "77",
 		"download_id": 32064290042342,
 		"version_external_identifier": 832981086,
