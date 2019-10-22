@@ -1,5 +1,5 @@
 ; hostname line is optional.
-hostname = vsco.co, buy.itunes.apple.com
+hostname = vsco.co, buy.itunes.apple.com, api-intl.mr.meitu.com
 
 # --- VSCO ---
 ^https?:\/\/vsco\.co\/api\/subscriptions\/2.1\/user-subscriptions\/ url script-response-body https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/script/vip.vsco.v3.js
