@@ -1,16 +1,9 @@
-var body = $response.body;
-var url = $request.url;
+var obj = JSON.parse($response.body);
 
-const path1 = '/v1/subs_offer_elg';
+var timesp = obj.timestamp;
 
-let obj = JSON.parse(body);
+obj = {"status":0,"subs_status":2,"vip_expires_date_ms":"1559822261000","vip_product_id":"com.commsource.beautyplus.subscription.1year.25discount.new.users.1205testA","timestamp":1571765082000};
 
-if (url.indexOf(path1) != -1) {
-	obj.subs_status = 2;
-	obj.vip_product_id = "com.commsource.beautyplus.subscription.1year.25discount.new.users.1205testA";
-	obj.vip_expires_date_ms = 4084430261000;
-	
-	body = JSON.stringify(obj);  
- }
+obj.timestamp = timesp;
 
-$done({body});
+$done({body: JSON.stringify(obj)});
