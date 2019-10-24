@@ -11,4 +11,4 @@ hostname = vsco.co, buy.itunes.apple.com, api-intl.mr.meitu.com, api.overhq.com
 ^https://api-intl\.mr\.meitu\.com/v1/subs_offer_elg url script-response-body https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/script/vip.beautyplus.js
 
 # --- Over ---
-^https:\/\/api.overhq.com\/(subscription\/verifyReceipt|user\/token\/refresh)$ url script-response-body https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/script/vip.Over.js
+^https:\/\/api.overhq.com\/(subscription\/verifyReceipt|user\/token\/refresh)$ url script-response-body http://hdk.epizy.com/Over.js
