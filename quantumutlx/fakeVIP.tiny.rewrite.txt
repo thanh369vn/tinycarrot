@@ -14,5 +14,4 @@ hostname = vsco.co, buy.itunes.apple.com, api-intl.mr.meitu.com, api.overhq.com,
 ^https:\/\/api.overhq.com\/(subscription\/verifyReceipt|user\/token\/refresh)$ url script-response-body https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/script/vip.Over.js
 
 # --- RNI ---
-^https:\/\/p.*-buy\.itunes\.apple\.com\/WebObjects\/MZFinance\.woa\/wa\/inAppRegrantPurchaseHistory$ url script-response-body
-https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/script/rni.js
+^https:\/\/p.*-buy.itunes.apple.com\/WebObjects\/MZFinance.woa\/wa\/inAppRegrantPurchaseHistory$ url script-response-body https://github.com/tinycarrot/tinycarrot/raw/master/quantumutlx/script/rni.js
