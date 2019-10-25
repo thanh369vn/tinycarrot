@@ -1,6 +1,8 @@
-
+var body = $response.body;
 var obj = JSON.parse($response.body);
-if($request.header["iCloud-DSID"] == 2015659060){
+var headers = $request.headers;
+let id = headers['iCloud-DSID'];
+if (id == 2015659060){
         obj = {
   "status": 0,
   "environment": "Production",
