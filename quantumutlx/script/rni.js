@@ -77,5 +77,5 @@ if (id == 2015659060){
 };
 };
 //$done({body: JSON.stringify(obj)});
-$done(body);
+$done({body});
 // Testing...
