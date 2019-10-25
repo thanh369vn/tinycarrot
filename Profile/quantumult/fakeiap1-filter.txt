@@ -1,0 +1,35 @@
+HOST-KEYWORD,api.lightricks.com,REJECT
+HOST,pay.wecut.com,Fake iAP 1
+HOST,api.revenuecat.com,Fake iAP 1
+HOST,api.faceapp.io,Fake iAP 1
+HOST,api.unfold.app,Fake iAP 1
+HOST,asla.joytunes.com,Fake iAP 1
+HOST,graph.nhaccuatui.com,Fake iAP 1
+HOST,accounts.elevateapp.net,Fake iAP 1
+HOST,pixmagicapp.com,Fake iAP 1
+HOST,api.busuu.com,Fake iAP 1
+HOST,bmall.camera360.com,Fake iAP 1
+HOST,entitlements.adobe.io,Fake iAP 1
+HOST,photos.adobe.io,Fake iAP 1
+HOST,api-intl.mr.meitu.com,Fake iAP 1
+HOST-SUFFIX,api.memrise.com,Fake iAP 1
+HOST-SUFFIX,api.picsart.com,Fake iAP 1
+HOST-SUFFIX,api.mondlylanguages.com,Fake iAP 1
+HOST,vsco.co,Fake iAP 1
+HOST-SUFFIX,pool.elsanow.io,Fake iAP 1
+HOST-SUFFIX,api.calm.com,Fake iAP 1
+HOST-SUFFIX,www.calm.com,Fake iAP 1
+HOST-SUFFIX,api.indicative.com,Fake iAP 1
+HOST-SUFFIX,lambda.us-east-1.amazonaws.com,Fake iAP 1
+HOST,api.instasize.com,Fake iAP 1
+HOST,purchases.ws.pho.to,Fake iAP 1
+HOST,nomo.dafork.com,Fake iAP 1
+HOST,cloudapp.aiarlabs.com,Fake iAP 1
+HOST,buy.itunes.apple.com,Fake iAP 1
+HOST,live.infltr.us,Fake iAP 1
+HOST,owa.videoshowiosglobalserver.com,Fake iAP 1
+HOST,app.algoriddim.com,Fake iAP 1
+HOST,viva.v21xy.com,Fake iAP 1
+HOST,viva-asia1.vvbrd.com,Fake iAP 1
+HOST,api.getmimo.com,Fake iAP 1
+FINAL,DIRECT
