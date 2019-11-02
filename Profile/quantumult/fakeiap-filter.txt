@@ -1,4 +1,6 @@
 HOST-KEYWORD,api.lightricks.com,REJECT
+# Ulike
+HOST, commerce-i18n-api.faceu.mobi, Fake iAP 1
 # Blinkist
 HOST, api.blinkist.com, Fake iAP 1
 # lingokids
