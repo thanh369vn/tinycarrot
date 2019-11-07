@@ -1,4 +1,6 @@
 HOST-KEYWORD,api.lightricks.com,REJECT
+#kine
+HOST, api-kinemaster-assetstore.nexstreaming.com, Fake iAP 1
 # YouTube Music
 HOST, youtubei.googleapis.com, Fake iAP 1
 # Over
