@@ -1,27 +1,29 @@
 HOST-KEYWORD,api.lightricks.com,REJECT
-#kine
-HOST, api-kinemaster-assetstore.nexstreaming.com, Fake iAP 1
+# Gyroscope
+HOST,api.gyrosco.pe,Fake iAP 1
+# Kine Master
+HOST,api-kinemaster-assetstore.nexstreaming.com,Fake iAP 1
 # YouTube Music
-HOST, youtubei.googleapis.com, Fake iAP 1
+HOST,youtubei.googleapis.com,Fake iAP 1
 # Over
-HOST, api.overhq.com, Fake iAP 1
+HOST,api.overhq.com,Fake iAP 1
 # Bright
-HOST, engbright.com, Fake iAP 1
+HOST,engbright.com,Fake iAP 1
 # Ulike
-HOST, commerce-i18n-api.faceu.mobi, Fake iAP 1
+HOST,commerce-i18n-api.faceu.mobi,Fake iAP 1
 # Blinkist
-HOST, api.blinkist.com, Fake iAP 1
+HOST,api.blinkist.com,Fake iAP 1
 # lingokids
-HOST, api.lingokids.com, Fake iAP 1
+HOST,api.lingokids.com,Fake iAP 1
 # adGuard
-HOST,mobile-api.adguard.com, Fake iAP 1
+HOST,mobile-api.adguard.com,Fake iAP 1
 # Boom Music
-HOST,apimboom2.globaldelight.net, Fake iAP 1
+HOST,apimboom2.globaldelight.net,Fake iAP 1
 # Musicalm
-HOST,www.peacefulsoundsapp.com, Fake iAP 1
-HOST,subscription.aresframework.com, Fake iAP 1
+HOST,www.peacefulsoundsapp.com,Fake iAP 1
+HOST,subscription.aresframework.com,Fake iAP 1
 # Update Nichi
-HOST,mp.bybutter.com, Fake iAP 1
+HOST,mp.bybutter.com,Fake iAP 1
 HOST,pay.wecut.com,Fake iAP 1
 HOST,api.revenuecat.com,Fake iAP 1
 HOST,api.faceapp.io,Fake iAP 1
