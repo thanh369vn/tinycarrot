@@ -1,4 +1,10 @@
 HOST-KEYWORD,api.lightricks.com,REJECT
+#JibJab
+HOST,origin-prod-phoenix.jibjab.com,Fake iAP 1
+# Termius
+HOST,api.termius.com,Fake iAP 1
+# PDF Expert
+HOST,license.pdfexpert.com,Fake iAP 1
 # Gyroscope
 HOST,api.gyrosco.pe,Fake iAP 1
 # Kine Master
@@ -46,6 +52,7 @@ HOST-SUFFIX,api.calm.com,Fake iAP 1
 HOST-SUFFIX,www.calm.com,Fake iAP 1
 HOST-SUFFIX,api.indicative.com,Fake iAP 1
 HOST-SUFFIX,lambda.us-east-1.amazonaws.com,Fake iAP 1
+#Instasize
 HOST,api.instasize.com,Fake iAP 1
 HOST,purchases.ws.pho.to,Fake iAP 1
 HOST,nomo.dafork.com,Fake iAP 1
