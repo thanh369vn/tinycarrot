@@ -1,4 +1,6 @@
 HOST-KEYWORD,api.lightricks.com,REJECT
+# MusiXmatch
+HOST,apic.musixmatch.com,Fake iAP 1
 #JibJab
 HOST,origin-prod-phoenix.jibjab.com,Fake iAP 1
 # Termius
