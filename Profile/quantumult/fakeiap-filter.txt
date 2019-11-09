@@ -1,4 +1,6 @@
 HOST-KEYWORD,api.lightricks.com,REJECT
+# Vizzywig2020
+HOST,ec2-52-34-190-224.us-west-2.compute.amazonaws.com,Fake iAP 1
 # MusiXmatch
 HOST,apic.musixmatch.com,Fake iAP 1
 #JibJab
@@ -33,6 +35,7 @@ HOST,subscription.aresframework.com,Fake iAP 1
 # Update Nichi
 HOST,mp.bybutter.com,Fake iAP 1
 HOST,pay.wecut.com,Fake iAP 1
+# 1Blocker, Loopsie, 
 HOST,api.revenuecat.com,Fake iAP 1
 HOST,api.faceapp.io,Fake iAP 1
 HOST,api.unfold.app,Fake iAP 1
