@@ -45,7 +45,7 @@ HOST,subscription.aresframework.com,Fake iAP 1
 # Update Nichi
 HOST,mp.bybutter.com,Fake iAP 1
 HOST,pay.wecut.com,Fake iAP 1
-# 1Blocker, Loopsie,
+# 1Blocker, Loopsie, Infltr, Yoga Studio
 HOST,api.revenuecat.com,Fake iAP 1
 HOST,api.faceapp.io,Fake iAP 1
 HOST,api.unfold.app,Fake iAP 1
@@ -63,8 +63,8 @@ HOST-SUFFIX,api.picsart.com,Fake iAP 1
 HOST-SUFFIX,api.mondlylanguages.com,Fake iAP 1
 HOST,vsco.co,Fake iAP 1
 HOST-SUFFIX,pool.elsanow.io,Fake iAP 1
+# Calm
 HOST-SUFFIX,api.calm.com,Fake iAP 1
-HOST-SUFFIX,www.calm.com,Fake iAP 1
 HOST-SUFFIX,api.indicative.com,Fake iAP 1
 HOST-SUFFIX,lambda.us-east-1.amazonaws.com,Fake iAP 1
 #Instasize
@@ -73,7 +73,8 @@ HOST,purchases.ws.pho.to,Fake iAP 1
 HOST,nomo.dafork.com,Fake iAP 1
 HOST,cloudapp.aiarlabs.com,Fake iAP 1
 HOST,buy.itunes.apple.com,Fake iAP 1
-HOST,live.infltr.us,Fake iAP 1
+#Infltr
+HOST,us-central1-infltr.cloudfunctions.net,Fake iAP 1
 HOST,owa.videoshowiosglobalserver.com,Fake iAP 1
 HOST,app.algoriddim.com,Fake iAP 1
 HOST,viva.v21xy.com,Fake iAP 1
