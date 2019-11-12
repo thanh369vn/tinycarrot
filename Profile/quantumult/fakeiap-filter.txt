@@ -1,8 +1,9 @@
 HOST-KEYWORD,api.lightricks.com,REJECT
+# Lich Van Nien 2020 (Lich Viet)
+HOST,api.lichviet.org,Fake iAP 1
 # QIYIVideo
 HOST,intl-i.vip.iqiyi.com,Fake iAP 1
 HOST,intl-passport.iqiyi.com,Fake iAP 1
-
 # Fing
 HOST,cdn.fing.io,Fake iAP 1
 # vizmato
