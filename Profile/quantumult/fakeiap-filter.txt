@@ -1,4 +1,6 @@
 HOST-KEYWORD,api.lightricks.com,REJECT
+# Zing TV
+HOST,api.tv.zing.vn,Fake iAP 1
 # Lich Van Nien 2020 (Lich Viet)
 HOST,api.lichviet.org,Fake iAP 1
 # QIYIVideo
