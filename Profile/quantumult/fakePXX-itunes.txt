@@ -1,1 +1,1 @@
-HOST-KEYWORD,-buy.itunes.apple.com,Fake iAP 1
+HOST-KEYWORD,-buy.itunes.apple.com,PROXY
