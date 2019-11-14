@@ -1,85 +1,84 @@
-HOST-KEYWORD,api.lightricks.com,REJECT
 # Zing TV
-HOST,api.tv.zing.vn,Fake iAP 1
+HOST,api.tv.zing.vn,PROXY
 # Lich Van Nien 2020 (Lich Viet)
-HOST,api.lichviet.org,Fake iAP 1
+HOST,api.lichviet.org,PROXY
 # QIYIVideo
-HOST,intl-i.vip.iqiyi.com,Fake iAP 1
-HOST,intl-passport.iqiyi.com,Fake iAP 1
+HOST,intl-i.vip.iqiyi.com,PROXY
+HOST,intl-passport.iqiyi.com,PROXY
 # Fing
-HOST,cdn.fing.io,Fake iAP 1
+HOST,cdn.fing.io,PROXY
 # vizmato
-HOST,web.vizmato.com,Fake iAP 1
+HOST,web.vizmato.com,PROXY
 # SoloLearn
-HOST,api.sololearn.com,Fake iAP 1
+HOST,api.sololearn.com,PROXY
 # Vizzywig2020
-HOST,ec2-52-34-190-224.us-west-2.compute.amazonaws.com,Fake iAP 1
+HOST,ec2-52-34-190-224.us-west-2.compute.amazonaws.com,PROXY
 # MusiXmatch
-HOST,apic.musixmatch.com,Fake iAP 1
+HOST,apic.musixmatch.com,PROXY
 #JibJab
-HOST,origin-prod-phoenix.jibjab.com,Fake iAP 1
+HOST,origin-prod-phoenix.jibjab.com,PROXY
 # Termius
-HOST,api.termius.com,Fake iAP 1
+HOST,api.termius.com,PROXY
 # PDF Expert
-HOST,license.pdfexpert.com,Fake iAP 1
+HOST,license.pdfexpert.com,PROXY
 # Gyroscope
-HOST,api.gyrosco.pe,Fake iAP 1
+HOST,api.gyrosco.pe,PROXY
 # Kine Master
-HOST,api-kinemaster-assetstore.nexstreaming.com,Fake iAP 1
+HOST,api-kinemaster-assetstore.nexstreaming.com,PROXY
 # YouTube Music
-HOST,youtubei.googleapis.com,Fake iAP 1
+HOST,youtubei.googleapis.com,PROXY
 # Over
-HOST,api.overhq.com,Fake iAP 1
+HOST,api.overhq.com,PROXY
 # Bright
-HOST,engbright.com,Fake iAP 1
+HOST,engbright.com,PROXY
 # Ulike
-HOST,commerce-i18n-api.faceu.mobi,Fake iAP 1
+HOST,commerce-i18n-api.faceu.mobi,PROXY
 # Blinkist
-HOST,api.blinkist.com,Fake iAP 1
+HOST,api.blinkist.com,PROXY
 # lingokids
-HOST,api.lingokids.com,Fake iAP 1
+HOST,api.lingokids.com,PROXY
 # adGuard
-HOST,mobile-api.adguard.com,Fake iAP 1
+HOST,mobile-api.adguard.com,PROXY
 # Boom Music
-HOST,apimboom2.globaldelight.net,Fake iAP 1
+HOST,apimboom2.globaldelight.net,PROXY
 # Musicalm
-HOST,www.peacefulsoundsapp.com,Fake iAP 1
-HOST,subscription.aresframework.com,Fake iAP 1
+HOST,www.peacefulsoundsapp.com,PROXY
+HOST,subscription.aresframework.com,PROXY
 # Update Nichi
-HOST,mp.bybutter.com,Fake iAP 1
-HOST,pay.wecut.com,Fake iAP 1
+HOST,mp.bybutter.com,PROXY
+HOST,pay.wecut.com,PROXY
 # 1Blocker, Loopsie, Infltr, Yoga Studio
-HOST,api.revenuecat.com,Fake iAP 1
-HOST,api.faceapp.io,Fake iAP 1
-HOST,api.unfold.app,Fake iAP 1
-HOST,asla.joytunes.com,Fake iAP 1
-HOST,graph.nhaccuatui.com,Fake iAP 1
-HOST,accounts.elevateapp.net,Fake iAP 1
-HOST,pixmagicapp.com,Fake iAP 1
-HOST,api.busuu.com,Fake iAP 1
-HOST,bmall.camera360.com,Fake iAP 1
-HOST,entitlements.adobe.io,Fake iAP 1
-HOST,photos.adobe.io,Fake iAP 1
-HOST,api-intl.mr.meitu.com,Fake iAP 1
-HOST-SUFFIX,api.memrise.com,Fake iAP 1
-HOST-SUFFIX,api.picsart.com,Fake iAP 1
-HOST-SUFFIX,api.mondlylanguages.com,Fake iAP 1
-HOST,vsco.co,Fake iAP 1
-HOST-SUFFIX,pool.elsanow.io,Fake iAP 1
+HOST,api.revenuecat.com,PROXY
+HOST,api.faceapp.io,PROXY
+HOST,api.unfold.app,PROXY
+HOST,asla.joytunes.com,PROXY
+HOST,graph.nhaccuatui.com,PROXY
+HOST,accounts.elevateapp.net,PROXY
+HOST,pixmagicapp.com,PROXY
+HOST,api.busuu.com,PROXY
+HOST,bmall.camera360.com,PROXY
+HOST,entitlements.adobe.io,PROXY
+HOST,photos.adobe.io,PROXY
+HOST,api-intl.mr.meitu.com,PROXY
+HOST-SUFFIX,api.memrise.com,PROXY
+HOST-SUFFIX,api.picsart.com,PROXY
+HOST-SUFFIX,api.mondlylanguages.com,PROXY
+HOST,vsco.co,PROXY
+HOST-SUFFIX,pool.elsanow.io,PROXY
 # Calm
-HOST-SUFFIX,api.calm.com,Fake iAP 1
-HOST-SUFFIX,api.indicative.com,Fake iAP 1
-HOST-SUFFIX,lambda.us-east-1.amazonaws.com,Fake iAP 1
+HOST-SUFFIX,api.calm.com,PROXY
+HOST-SUFFIX,api.indicative.com,PROXY
+HOST-SUFFIX,lambda.us-east-1.amazonaws.com,PROXY
 #Instasize
-HOST,api.instasize.com,Fake iAP 1
-HOST,purchases.ws.pho.to,Fake iAP 1
-HOST,nomo.dafork.com,Fake iAP 1
-HOST,cloudapp.aiarlabs.com,Fake iAP 1
-HOST,buy.itunes.apple.com,Fake iAP 1
+HOST,api.instasize.com,PROXY
+HOST,purchases.ws.pho.to,PROXY
+HOST,nomo.dafork.com,PROXY
+HOST,cloudapp.aiarlabs.com,PROXY
+HOST,buy.itunes.apple.com,PROXY
 #Infltr
-HOST,us-central1-infltr.cloudfunctions.net,Fake iAP 1
-HOST,owa.videoshowiosglobalserver.com,Fake iAP 1
-HOST,app.algoriddim.com,Fake iAP 1
-HOST,viva.v21xy.com,Fake iAP 1
-HOST,viva-asia1.vvbrd.com,Fake iAP 1
-HOST,api.getmimo.com,Fake iAP 1
+HOST,us-central1-infltr.cloudfunctions.net,PROXY
+HOST,owa.videoshowiosglobalserver.com,PROXY
+HOST,app.algoriddim.com,PROXY
+HOST,viva.v21xy.com,PROXY
+HOST,viva-asia1.vvbrd.com,PROXY
+HOST,api.getmimo.com,PROXY
