@@ -1,0 +1,84 @@
+# Zing TV
+HOST,api.tv.zing.vn
+# Lich Van Nien 2020 (Lich Viet)
+HOST,api.lichviet.org
+# QIYIVideo
+HOST,intl-i.vip.iqiyi.com
+HOST,intl-passport.iqiyi.com
+# Fing
+HOST,cdn.fing.io
+# vizmato
+HOST,web.vizmato.com
+# SoloLearn
+HOST,api.sololearn.com
+# Vizzywig2020
+HOST,ec2-52-34-190-224.us-west-2.compute.amazonaws.com
+# MusiXmatch
+HOST,apic.musixmatch.com
+#JibJab
+HOST,origin-prod-phoenix.jibjab.com
+# Termius
+HOST,api.termius.com
+# PDF Expert
+HOST,license.pdfexpert.com
+# Gyroscope
+HOST,api.gyrosco.pe
+# Kine Master
+HOST,api-kinemaster-assetstore.nexstreaming.com
+# YouTube Music
+HOST,youtubei.googleapis.com
+# Over
+HOST,api.overhq.com
+# Bright
+HOST,engbright.com
+# Ulike
+HOST,commerce-i18n-api.faceu.mobi
+# Blinkist
+HOST,api.blinkist.com
+# lingokids
+HOST,api.lingokids.com
+# adGuard
+HOST,mobile-api.adguard.com
+# Boom Music
+HOST,apimboom2.globaldelight.net
+# Musicalm
+HOST,www.peacefulsoundsapp.com
+HOST,subscription.aresframework.com
+# Update Nichi
+HOST,mp.bybutter.com
+HOST,pay.wecut.com
+# 1Blocker, Loopsie, Infltr, Yoga Studio
+HOST,api.revenuecat.com
+HOST,api.faceapp.io
+HOST,api.unfold.app
+HOST,asla.joytunes.com
+HOST,graph.nhaccuatui.com
+HOST,accounts.elevateapp.net
+HOST,pixmagicapp.com
+HOST,api.busuu.com
+HOST,bmall.camera360.com
+HOST,entitlements.adobe.io
+HOST,photos.adobe.io
+HOST,api-intl.mr.meitu.com
+HOST-SUFFIX,api.memrise.com
+HOST-SUFFIX,api.picsart.com
+HOST-SUFFIX,api.mondlylanguages.com
+HOST,vsco.co
+HOST-SUFFIX,pool.elsanow.io
+# Calm
+HOST-SUFFIX,api.calm.com
+HOST-SUFFIX,api.indicative.com
+HOST-SUFFIX,lambda.us-east-1.amazonaws.com
+#Instasize
+HOST,api.instasize.com
+HOST,purchases.ws.pho.to
+HOST,nomo.dafork.com
+HOST,cloudapp.aiarlabs.com
+HOST,buy.itunes.apple.com
+#Infltr
+HOST,us-central1-infltr.cloudfunctions.net
+HOST,owa.videoshowiosglobalserver.com
+HOST,app.algoriddim.com
+HOST,viva.v21xy.com
+HOST,viva-asia1.vvbrd.com
+HOST,api.getmimo.com
