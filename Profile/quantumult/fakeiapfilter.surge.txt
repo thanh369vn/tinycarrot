@@ -1,84 +1,84 @@
 # Zing TV
-HOST,api.tv.zing.vn
+DOMAIN,api.tv.zing.vn
 # Lich Van Nien 2020 (Lich Viet)
-HOST,api.lichviet.org
+DOMAIN,api.lichviet.org
 # QIYIVideo
-HOST,intl-i.vip.iqiyi.com
-HOST,intl-passport.iqiyi.com
+DOMAIN,intl-i.vip.iqiyi.com
+DOMAIN,intl-passport.iqiyi.com
 # Fing
-HOST,cdn.fing.io
+DOMAIN,cdn.fing.io
 # vizmato
-HOST,web.vizmato.com
+DOMAIN,web.vizmato.com
 # SoloLearn
-HOST,api.sololearn.com
+DOMAIN,api.sololearn.com
 # Vizzywig2020
-HOST,ec2-52-34-190-224.us-west-2.compute.amazonaws.com
+DOMAIN,ec2-52-34-190-224.us-west-2.compute.amazonaws.com
 # MusiXmatch
-HOST,apic.musixmatch.com
+DOMAIN,apic.musixmatch.com
 #JibJab
-HOST,origin-prod-phoenix.jibjab.com
+DOMAIN,origin-prod-phoenix.jibjab.com
 # Termius
-HOST,api.termius.com
+DOMAIN,api.termius.com
 # PDF Expert
-HOST,license.pdfexpert.com
+DOMAIN,license.pdfexpert.com
 # Gyroscope
-HOST,api.gyrosco.pe
+DOMAIN,api.gyrosco.pe
 # Kine Master
-HOST,api-kinemaster-assetstore.nexstreaming.com
+DOMAIN,api-kinemaster-assetstore.nexstreaming.com
 # YouTube Music
-HOST,youtubei.googleapis.com
+DOMAIN,youtubei.googleapis.com
 # Over
-HOST,api.overhq.com
+DOMAIN,api.overhq.com
 # Bright
-HOST,engbright.com
+DOMAIN,engbright.com
 # Ulike
-HOST,commerce-i18n-api.faceu.mobi
+DOMAIN,commerce-i18n-api.faceu.mobi
 # Blinkist
-HOST,api.blinkist.com
+DOMAIN,api.blinkist.com
 # lingokids
-HOST,api.lingokids.com
+DOMAIN,api.lingokids.com
 # adGuard
-HOST,mobile-api.adguard.com
+DOMAIN,mobile-api.adguard.com
 # Boom Music
-HOST,apimboom2.globaldelight.net
+DOMAIN,apimboom2.globaldelight.net
 # Musicalm
-HOST,www.peacefulsoundsapp.com
-HOST,subscription.aresframework.com
+DOMAIN,www.peacefulsoundsapp.com
+DOMAIN,subscription.aresframework.com
 # Update Nichi
-HOST,mp.bybutter.com
-HOST,pay.wecut.com
+DOMAIN,mp.bybutter.com
+DOMAIN,pay.wecut.com
 # 1Blocker, Loopsie, Infltr, Yoga Studio
-HOST,api.revenuecat.com
-HOST,api.faceapp.io
-HOST,api.unfold.app
-HOST,asla.joytunes.com
-HOST,graph.nhaccuatui.com
-HOST,accounts.elevateapp.net
-HOST,pixmagicapp.com
-HOST,api.busuu.com
-HOST,bmall.camera360.com
-HOST,entitlements.adobe.io
-HOST,photos.adobe.io
-HOST,api-intl.mr.meitu.com
-HOST-SUFFIX,api.memrise.com
-HOST-SUFFIX,api.picsart.com
-HOST-SUFFIX,api.mondlylanguages.com
-HOST,vsco.co
-HOST-SUFFIX,pool.elsanow.io
+DOMAIN,api.revenuecat.com
+DOMAIN,api.faceapp.io
+DOMAIN,api.unfold.app
+DOMAIN,asla.joytunes.com
+DOMAIN,graph.nhaccuatui.com
+DOMAIN,accounts.elevateapp.net
+DOMAIN,pixmagicapp.com
+DOMAIN,api.busuu.com
+DOMAIN,bmall.camera360.com
+DOMAIN,entitlements.adobe.io
+DOMAIN,photos.adobe.io
+DOMAIN,api-intl.mr.meitu.com
+DOMAIN-SUFFIX,api.memrise.com
+DOMAIN-SUFFIX,api.picsart.com
+DOMAIN-SUFFIX,api.mondlylanguages.com
+DOMAIN,vsco.co
+DOMAIN-SUFFIX,pool.elsanow.io
 # Calm
-HOST-SUFFIX,api.calm.com
-HOST-SUFFIX,api.indicative.com
-HOST-SUFFIX,lambda.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,api.calm.com
+DOMAIN-SUFFIX,api.indicative.com
+DOMAIN-SUFFIX,lambda.us-east-1.amazonaws.com
 #Instasize
-HOST,api.instasize.com
-HOST,purchases.ws.pho.to
-HOST,nomo.dafork.com
-HOST,cloudapp.aiarlabs.com
-HOST,buy.itunes.apple.com
+DOMAIN,api.instasize.com
+DOMAIN,purchases.ws.pho.to
+DOMAIN,nomo.dafork.com
+DOMAIN,cloudapp.aiarlabs.com
+DOMAIN,buy.itunes.apple.com
 #Infltr
-HOST,us-central1-infltr.cloudfunctions.net
-HOST,owa.videoshowiosglobalserver.com
-HOST,app.algoriddim.com
-HOST,viva.v21xy.com
-HOST,viva-asia1.vvbrd.com
-HOST,api.getmimo.com
+DOMAIN,us-central1-infltr.cloudfunctions.net
+DOMAIN,owa.videoshowiosglobalserver.com
+DOMAIN,app.algoriddim.com
+DOMAIN,viva.v21xy.com
+DOMAIN,viva-asia1.vvbrd.com
+DOMAIN,api.getmimo.com
