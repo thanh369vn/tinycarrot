@@ -1,3 +1,5 @@
+# Photoshop
+HOST,lcs-mobile-cops.adobe.io,PROXY
 # Zing TV
 HOST,api.tv.zing.vn,PROXY
 # Lich Van Nien 2020 (Lich Viet)
