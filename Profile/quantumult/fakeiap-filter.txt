@@ -1,3 +1,5 @@
+#Day One
+HOST,dayone.me,PROXY
 #Endel
 HOST,api-production.endel.io,PROXY
 # Chic Cam
