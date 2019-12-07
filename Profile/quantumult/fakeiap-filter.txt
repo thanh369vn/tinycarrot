@@ -1,3 +1,5 @@
+#Planner 5D
+HOST,planner5d.com
 #Day One
 HOST,dayone.me,PROXY
 #Endel
