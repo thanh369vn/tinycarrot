@@ -4,7 +4,7 @@ loglevel = notify
 skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, ::ffff:0.0.0.0/1, ::ffff:128.0.0.0/1, localhost, *.local
 dns-server = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4
 ipv6 = false
-update-url = https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/shadowrocket/fakeiap_200112.conf
+update-url = https://raw.githubusercontent.com/tinycarrot/tinycarrot/master/shadowrocket/pxx-200112
 
 [Proxy]
 Fake iAP Server US 🇺🇸 = http, 34.68.164.252, 8080, sERVsGqURPv3QQi, .shdqqy2ruAzJK6EAy(D
