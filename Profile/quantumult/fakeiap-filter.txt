@@ -1,3 +1,5 @@
+#Working Copy
+HOST,education.github.com,PROXY
 #Camscanner
 HOST,api-cs.intsig.net,PROXY
 #Planner 5D
