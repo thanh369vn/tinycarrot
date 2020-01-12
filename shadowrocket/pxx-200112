@@ -1,5 +1,6 @@
 # Shadowrocket: 2020-01-12 12:20:59 PM
 [General]
+bypass-system = true
 loglevel = notify
 skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, ::ffff:0.0.0.0/1, ::ffff:128.0.0.0/1, localhost, *.local
 dns-server = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4
