@@ -13,7 +13,7 @@ HOST,chic.mtlab.meitu.com,PROXY
 # Photoshop
 HOST,lcs-mobile-cops.adobe.io,PROXY
 # Zing TV
-HOST,api.tv.zing.vn,PROXY
+#HOST,api.tv.zing.vn,PROXY
 # Lich Van Nien 2020 (Lich Viet)
 HOST,api.lichviet.org,PROXY
 # QIYIVideo
@@ -40,7 +40,7 @@ HOST,api.gyrosco.pe,PROXY
 # Kine Master
 HOST,api-kinemaster-assetstore.nexstreaming.com,PROXY
 # YouTube Music
-HOST,youtubei.googleapis.com,PROXY
+#HOST,youtubei.googleapis.com,PROXY
 # Over
 HOST,api.overhq.com,PROXY
 # Bright
