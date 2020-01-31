@@ -1,3 +1,5 @@
+#Prequel
+HOST,cloudapp.aiarlabs.com,PROXY
 #Working Copy
 HOST,education.github.com,PROXY
 #Camscanner
