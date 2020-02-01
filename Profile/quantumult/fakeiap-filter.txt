@@ -1,3 +1,5 @@
+#Spendee
+HOST,api.spendee.com,PROXY
 #Prequel
 HOST,cloudapp.aiarlabs.com,PROXY
 #Working Copy
