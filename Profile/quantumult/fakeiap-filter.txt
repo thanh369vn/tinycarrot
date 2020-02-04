@@ -1,3 +1,5 @@
+#TIKTOK
+HOST-KEYWORD,h2.tiktokv.com,PROXY
 #Spendee
 HOST,api.spendee.com,PROXY
 #Prequel
