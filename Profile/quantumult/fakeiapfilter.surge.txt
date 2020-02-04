@@ -1,5 +1,25 @@
+#TIKTOK
+DOMAIN-KEYWORD,h2.tiktokv.com
+#Spendee
+DOMAIN,api.spendee.com
+#Prequel
+DOMAIN,cloudapp.aiarlabs.com
+#Working Copy
+DOMAIN,education.github.com
+#Camscanner
+DOMAIN,api-cs.intsig.net
+#Planner 5D
+DOMAIN,planner5d.com
+#Day One
+DOMAIN,dayone.me
+#Endel
+DOMAIN,api-production.endel.io
+# Chic Cam
+DOMAIN,chic.mtlab.meitu.com
+# Photoshop
+DOMAIN,lcs-mobile-cops.adobe.io
 # Zing TV
-DOMAIN,api.tv.zing.vn
+#DOMAIN,api.tv.zing.vn
 # Lich Van Nien 2020 (Lich Viet)
 DOMAIN,api.lichviet.org
 # QIYIVideo
