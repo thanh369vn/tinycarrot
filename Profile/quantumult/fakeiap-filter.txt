@@ -1,3 +1,5 @@
+#AutoCAD
+HOST,app.autocad360.com,PROXY
 #VMonkey
 HOST,www.api.monkeyuni.net,PROXY
 #TIKTOK

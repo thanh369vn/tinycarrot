@@ -1,4 +1,6 @@
-VMonkey
+#AutoCAD
+DOMAIN,app.autocad360.com
+#VMonkey
 DOMAIN,www.api.monkeyuni.net
 #TIKTOK
 DOMAIN-KEYWORD,h2.tiktokv.com
