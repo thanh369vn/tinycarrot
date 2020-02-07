@@ -1,3 +1,5 @@
+#VMonkey
+HOST,www.api.monkeyuni.net,PROXY
 #TIKTOK
 HOST-KEYWORD,h2.tiktokv.com,PROXY
 #Spendee
