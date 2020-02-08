@@ -48,6 +48,7 @@ DOMAIN,license.pdfexpert.com
 # Gyroscope
 DOMAIN,api.gyrosco.pe
 # Kine Master
+DOMAIN,api-kinemaster-assetstore.kinemasters.com
 DOMAIN,api-kinemaster-assetstore.nexstreaming.com
 # YouTube Music
 DOMAIN,youtubei.googleapis.com
