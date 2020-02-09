@@ -3,6 +3,7 @@ DOMAIN,app.autocad360.com
 #VMonkey
 DOMAIN,www.api.monkeyuni.net
 #TIKTOK
+DOMAIN,api3-normal-c-lf.amemv.com
 DOMAIN-KEYWORD,h2.tiktokv.com
 #Spendee
 DOMAIN,api.spendee.com
