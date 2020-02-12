@@ -1,3 +1,5 @@
+#BabyBus
+HOST,pay.babybus.com,PROXY
 #AutoCAD
 HOST,app.autocad360.com,PROXY
 #VMonkey
