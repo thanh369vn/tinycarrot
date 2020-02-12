@@ -1,1 +1,1 @@
-HOST-KEYWORD,-buy.itunes.apple.com,PROXY
+HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
