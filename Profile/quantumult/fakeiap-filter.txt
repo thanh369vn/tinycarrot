@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#farfaria
+HOST, api.farfaria.com, Fake iAP Policy
 #Quantumult X bypass
 HOST, activation.crossutility.com, reject
 #BabyBus
