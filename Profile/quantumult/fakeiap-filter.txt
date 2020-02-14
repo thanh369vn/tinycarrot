@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#PlayerXtreme
+HOST,secure.istreamer.com,Fake iAP Policy
 #farfaria
 HOST, api.farfaria.com, Fake iAP Policy
 #Quantumult X bypass
