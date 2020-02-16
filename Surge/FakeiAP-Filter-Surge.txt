@@ -1,3 +1,13 @@
+#Daggerhood
+DOMAIN,api.playond.com
+#Vinkle
+DOMAIN,dupa-api.doupaiapp.com
+#Faded
+DOMAIN,api.madewithfaded.com
+#PlayerXtreme
+DOMAIN,secure.istreamer.com
+#farfaria
+DOMAIN,api.farfaria.com
 #BabyBus
 DOMAIN,pay.babybus.com
 #AutoCAD
