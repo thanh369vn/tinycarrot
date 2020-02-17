@@ -1,5 +1,5 @@
-#Presco Overlay
-DOMAIN,overlay-api.gotbatu.com
+#Snap&Trans
+HOST,overlay-api.gotbatu.com
 #MoneyLover
 DOMAIN,revoapi.moneylover.me
 #Daggerhood

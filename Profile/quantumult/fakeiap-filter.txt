@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#Snap&Trans
+HOST,receipt-validator.herewetest.com,Fake iAP Policy
 #Presco Overlay
 HOST,overlay-api.gotbatu.com,Fake iAP Policy
 #MoneyLover
