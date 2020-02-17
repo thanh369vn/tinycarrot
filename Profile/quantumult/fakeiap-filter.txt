@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#MoneyLover
+HOST,revoapi.moneylover.me,Fake iAP Policy
 #Daggerhood
 HOST,api.playond.com,Fake iAP Policy
 #Vinkle

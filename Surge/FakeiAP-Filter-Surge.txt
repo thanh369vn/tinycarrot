@@ -1,3 +1,5 @@
+#MoneyLover
+DOMAIN,revoapi.moneylover.me
 #Daggerhood
 DOMAIN,api.playond.com
 #Vinkle
