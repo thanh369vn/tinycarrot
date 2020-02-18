@@ -1,7 +1,10 @@
+#Funimate
+HOST,api.funimate.com
 #Snap&Trans
 HOST,overlay-api.gotbatu.com
 #MoneyLover
 DOMAIN,revoapi.moneylover.me
+DOMAIN,static.moneylover.me
 #Daggerhood
 DOMAIN,api.playond.com
 #Vinkle
