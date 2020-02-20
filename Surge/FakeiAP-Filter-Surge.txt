@@ -71,7 +71,7 @@ DOMAIN,api.gyrosco.pe
 DOMAIN,api-kinemaster-assetstore.kinemasters.com
 DOMAIN,api-kinemaster-assetstore.nexstreaming.com
 # YouTube Music
-DOMAIN,youtubei.googleapis.com
+#DOMAIN,youtubei.googleapis.com
 # Over
 DOMAIN,api.overhq.com
 # Bright
