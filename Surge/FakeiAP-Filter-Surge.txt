@@ -1,4 +1,6 @@
 #Funimate
+DOMAIN,api.global.mp3.zing.vn
+#Funimate
 DOMAIN,api.funimate.com
 #Snap&Trans
 DOMAIN,overlay-api.gotbatu.com
