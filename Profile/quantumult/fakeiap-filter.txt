@@ -105,7 +105,8 @@ HOST,api.revenuecat.com,Fake iAP Policy
 HOST,api.faceapp.io,Fake iAP Policy
 HOST,api.unfold.app,Fake iAP Policy
 HOST,asla.joytunes.com,Fake iAP Policy
-HOST,graph.nhaccuatui.com,Fake iAP Policy
+#NhacCuaTui
+#HOST,graph.nhaccuatui.com,Fake iAP Policy
 HOST,accounts.elevateapp.net,Fake iAP Policy
 HOST,pixmagicapp.com,Fake iAP Policy
 HOST,api.busuu.com,Fake iAP Policy
