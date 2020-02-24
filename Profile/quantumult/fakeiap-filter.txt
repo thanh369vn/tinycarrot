@@ -83,7 +83,7 @@ HOST,api-kinemaster-assetstore.nexstreaming.com,Fake iAP Policy
 # Over
 HOST,api.overhq.com,Fake iAP Policy
 # Bright
-HOST,engbright.com,Fake iAP Server 02
+HOST,engbright.com,Fake iAP Policy
 # Ulike
 HOST,commerce-i18n-api.faceu.mobi,Fake iAP Policy
 # Blinkist
