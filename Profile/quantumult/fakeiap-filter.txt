@@ -2,6 +2,8 @@
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
 #Funimate
 HOST,api.funimate.com,Fake iAP Policy
+#Polarr
+HOST,api.polarr.co,Fake iAP Policy
 #Zing Mp3
 HOST,api.global.mp3.zing.vn,Fake iAP Policy
 #Snap&Trans

@@ -1,4 +1,6 @@
 #Funimate
+DOMAIN,api.polarr.co
+#Funimate
 DOMAIN,api.global.mp3.zing.vn
 #Funimate
 DOMAIN,api.funimate.com
