@@ -1,6 +1,8 @@
-#Funimate
+#Wattpad
+DOMAIN,api.wattpad.com
+#Pollar
 DOMAIN,api.polarr.co
-#Funimate
+#Zingmp3
 DOMAIN,api.global.mp3.zing.vn
 #Funimate
 DOMAIN,api.funimate.com
