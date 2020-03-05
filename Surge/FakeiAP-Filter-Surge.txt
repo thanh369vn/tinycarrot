@@ -1,3 +1,5 @@
+#Lensa
+DOMAIN,subscription-service.neuralprisma.com
 #Wattpad
 DOMAIN,api.wattpad.com
 #Pollar

@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#Lensa
+HOST,subscription-service.neuralprisma.com,Fake iAP Policy
 #Wattpad
 HOST,api.wattpad.com,Fake iAP Policy
 #Funimate
