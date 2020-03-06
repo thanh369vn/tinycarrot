@@ -1,3 +1,5 @@
+#Rocka
+DOMAIN,api.rockalearning.com
 #Lensa
 DOMAIN,subscription-service.neuralprisma.com
 #Wattpad
