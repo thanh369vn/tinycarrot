@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#chordify
+HOST,chordify.net,Fake iAP Policy
 #Rocka
 HOST,api.rockalearning.com,Fake iAP Policy
 #Lensa

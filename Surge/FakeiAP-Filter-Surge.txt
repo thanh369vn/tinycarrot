@@ -1,3 +1,5 @@
+#chordify
+DOMAIN,chordify.net
 #Rocka
 DOMAIN,api.rockalearning.com
 #Lensa
