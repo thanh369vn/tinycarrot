@@ -1,5 +1,7 @@
 #passwordmanager
 DOMAIN,djit-end.appspot.com
+#Simpler
+DOMAIN,simpler.via-mobi.com
 #chordify
 DOMAIN,chordify.net
 #Rocka
