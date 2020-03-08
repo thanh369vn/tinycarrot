@@ -1,3 +1,5 @@
+#passwordmanager
+DOMAIN,djit-end.appspot.com
 #chordify
 DOMAIN,chordify.net
 #Rocka
