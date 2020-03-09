@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#RETO3D
+HOST,weewungwung.com,Fake iAP Policy
 #Simpler
 HOST,simpler.via-mobi.com,Fake iAP Policy
 #passwordmanager
