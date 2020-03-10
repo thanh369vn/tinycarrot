@@ -1,3 +1,5 @@
+#Followers
+DOMAIN,api.socialguide.co
 #passwordmanager
 DOMAIN,djit-end.appspot.com
 #RETO3D
