@@ -20,7 +20,7 @@ DOMAIN,api.polarr.co
 DOMAIN,api.global.mp3.zing.vn
 #Funimate
 DOMAIN,api.funimate.com
-#Snap&Trans
+#PrescoOverlay + Presco
 DOMAIN,overlay-api.gotbatu.com
 #MoneyLover
 DOMAIN,revoapi.moneylover.me

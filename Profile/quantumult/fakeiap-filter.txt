@@ -24,7 +24,7 @@ HOST,api.polarr.co,Fake iAP Policy
 HOST,api.global.mp3.zing.vn,Fake iAP Policy
 #Snap&Trans
 HOST,receipt-validator.herewetest.com,Fake iAP Policy
-#Presco Overlay
+#Presco Overlay + Presco
 HOST,overlay-api.gotbatu.com,Fake iAP Policy
 #MoneyLover
 HOST,revoapi.moneylover.me,Fake iAP Policy
