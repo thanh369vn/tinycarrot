@@ -1,3 +1,5 @@
+#Presco
+DOMAIN,presco-api.gotbatu.com
 #Followers
 DOMAIN,api.socialguide.co
 #passwordmanager
@@ -20,7 +22,7 @@ DOMAIN,api.polarr.co
 DOMAIN,api.global.mp3.zing.vn
 #Funimate
 DOMAIN,api.funimate.com
-#PrescoOverlay + Presco
+#PrescoOverlay
 DOMAIN,overlay-api.gotbatu.com
 #MoneyLover
 DOMAIN,revoapi.moneylover.me
