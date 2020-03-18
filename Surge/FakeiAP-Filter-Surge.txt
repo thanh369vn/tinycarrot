@@ -1,3 +1,6 @@
+#pixiv
+DOMAIN,app-api.pixiv.net
+DOMAIN,oauth.secure.pixiv.net
 #Sanford Guide
 DOMAIN,naga.sanfordguide.com
 #VideoStart

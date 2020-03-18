@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#pixiv
+HOST,naga.sanfordguide.com,Fake iAP Policy
 #Sanford Guide
 HOST,naga.sanfordguide.com,Fake iAP Policy
 #VideoStart
