@@ -1,3 +1,5 @@
+#Sanford Guide
+DOMAIN,naga.sanfordguide.com
 #VideoStart
 DOMAIN,testapps.videostarapp.com
 #Presco
