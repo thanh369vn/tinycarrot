@@ -1,3 +1,5 @@
+#Falou
+DOMAIN,sub.falou.app
 #STORIO
 DOMAIN,api.apphud.com
 #pixiv
