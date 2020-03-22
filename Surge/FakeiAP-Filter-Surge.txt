@@ -1,3 +1,5 @@
+#STORIO
+DOMAIN,api.apphud.com
 #pixiv
 DOMAIN,app-api.pixiv.net
 DOMAIN,oauth.secure.pixiv.net

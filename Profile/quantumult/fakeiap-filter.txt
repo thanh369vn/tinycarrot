@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#STORIO
+HOST,api.apphud.com,Fake iAP Policy
 #pixiv
 HOST,app-api.pixiv.net,Fake iAP Policy
 HOST,oauth.secure.pixiv.net,Fake iAP Policy
