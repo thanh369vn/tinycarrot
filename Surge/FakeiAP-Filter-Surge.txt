@@ -1,3 +1,7 @@
+#Speak + Snap & Translate
+DOMAIN,receipt-validator.herewetest.com
+#Remote+
+DOMAIN,nodejs.cherpake.com
 #Falou
 DOMAIN,sub.falou.app
 #STORIO
