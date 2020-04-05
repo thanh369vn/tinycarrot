@@ -37,8 +37,8 @@ HOST,api.wattpad.com,Fake iAP Policy
 HOST,api.funimate.com,Fake iAP Policy
 #Polarr
 HOST,api.polarr.co,Fake iAP Policy
-#Zing Mp3
-HOST,api.global.mp3.zing.vn,Fake iAP Policy
+#   Zing Mp3
+#   HOST,api.global.mp3.zing.vn,Fake iAP Policy
 #Snap&Trans
 HOST,receipt-validator.herewetest.com,Fake iAP Policy
 #Presco Overlay
@@ -64,9 +64,9 @@ HOST,pay.babybus.com,Fake iAP Policy
 HOST,app.autocad360.com,Fake iAP Policy
 #VMonkey
 HOST,www.api.monkeyuni.net,Fake iAP Policy
-#TIKTOK
-HOST,api3-normal-c-lf.amemv.com,Fake iAP Policy
-HOST-KEYWORD,h2.tiktokv.com,Fake iAP Policy
+#   TIKTOK
+#   HOST,api3-normal-c-lf.amemv.com,Fake iAP Policy
+#   HOST-KEYWORD,h2.tiktokv.com,Fake iAP Policy
 #Spendee
 HOST,api.spendee.com,Fake iAP Policy
 #Prequel
