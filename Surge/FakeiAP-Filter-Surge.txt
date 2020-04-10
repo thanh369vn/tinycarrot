@@ -164,6 +164,6 @@ DOMAIN,buy.itunes.apple.com
 DOMAIN,us-central1-infltr.cloudfunctions.net
 DOMAIN,owa.videoshowiosglobalserver.com
 DOMAIN,app.algoriddim.com
-DOMAIN,viva.v21xy.com
-DOMAIN,viva-asia1.vvbrd.com
+#DOMAIN,viva.v21xy.com
+#DOMAIN,viva-asia1.vvbrd.com
 DOMAIN,api.getmimo.com

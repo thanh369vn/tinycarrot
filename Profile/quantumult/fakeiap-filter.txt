@@ -168,6 +168,6 @@ HOST,buy.itunes.apple.com,Fake iAP Policy
 HOST,us-central1-infltr.cloudfunctions.net,Fake iAP Policy
 HOST,owa.videoshowiosglobalserver.com,Fake iAP Policy
 HOST,app.algoriddim.com,Fake iAP Policy
-HOST,viva.v21xy.com,Fake iAP Policy
-HOST,viva-asia1.vvbrd.com,Fake iAP Policy
+#HOST,viva.v21xy.com,Fake iAP Policy
+#HOST,viva-asia1.vvbrd.com,Fake iAP Policy
 HOST,api.getmimo.com,Fake iAP Policy
