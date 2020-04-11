@@ -129,7 +129,7 @@ DOMAIN,apimboom2.globaldelight.net
 DOMAIN,www.peacefulsoundsapp.com
 DOMAIN,subscription.aresframework.com
 # Update Nichi
-DOMAIN,mp.bybutter.com
+DOMAIN,mini-hk.bybutter.com
 DOMAIN,pay.wecut.com
 # 1Blocker, Loopsie, Infltr, Yoga Studio
 DOMAIN,api.revenuecat.com

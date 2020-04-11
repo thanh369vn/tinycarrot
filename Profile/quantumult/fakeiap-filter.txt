@@ -133,7 +133,7 @@ HOST,apimboom2.globaldelight.net,Fake iAP Policy
 HOST,www.peacefulsoundsapp.com,Fake iAP Policy
 HOST,subscription.aresframework.com,Fake iAP Policy
 # Update Nichi
-HOST,mp.bybutter.com,Fake iAP Policy
+HOST,mini-hk.bybutter.com,Fake iAP Policy
 HOST,pay.wecut.com,Fake iAP Policy
 # 1Blocker, Loopsie, Infltr, Yoga Studio
 HOST,api.revenuecat.com,Fake iAP Policy
