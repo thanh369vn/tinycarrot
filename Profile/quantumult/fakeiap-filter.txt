@@ -65,8 +65,8 @@ HOST,app.autocad360.com,Fake iAP Policy
 #VMonkey
 HOST,www.api.monkeyuni.net,Fake iAP Policy
 #   TIKTOK
-#   HOST,api3-normal-c-lf.amemv.com,Fake iAP Policy
-#   HOST-KEYWORD,h2.tiktokv.com,Fake iAP Policy
+HOST,api3-normal-c-lf.amemv.com,Fake iAP Policy
+HOST-KEYWORD,h2.tiktokv.com,Fake iAP Policy
 #Spendee
 HOST,api.spendee.com,Fake iAP Policy
 #Prequel
