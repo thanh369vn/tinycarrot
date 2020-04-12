@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#Followly
+HOST,followly.m-mobileapps.com,Fake iAP Policy
 #Aivartar
 HOST,aivatar-subscription.sticker.place,Fake iAP Policy
 #Romote+

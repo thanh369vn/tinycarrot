@@ -1,3 +1,5 @@
+#Followly
+DOMAIN,followly.m-mobileapps.com
 #Aivartar
 DOMAIN,aivatar-subscription.sticker.place
 #Speak + Snap & Translate
