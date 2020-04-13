@@ -1,3 +1,5 @@
+#ToeicEZ
+DOMAIN,toeicez.com
 #Followly
 DOMAIN,followly.m-mobileapps.com
 #Aivartar
