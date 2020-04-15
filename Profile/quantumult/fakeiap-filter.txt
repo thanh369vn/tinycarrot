@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#Shapr3D
+HOST,prod.api.shapr3d.com,Fake iAP Policy
 #IELTS
 HOST,dbvirtualeducation.com,Fake iAP Policy
 #ToeicEZ
