@@ -1,3 +1,5 @@
+#Codecademy
+DOMAIN,www.codecademy.com
 #Shapr3D
 DOMAIN,prod.api.shapr3d.com
 #IELTS
