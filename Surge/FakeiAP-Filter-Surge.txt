@@ -1,3 +1,5 @@
+#Eggzy
+DOMAIN,subs.platforms.team
 #cercube
 DOMAIN,api.cercube.com
 #Codecademy
