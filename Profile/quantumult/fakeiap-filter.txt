@@ -1,5 +1,7 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+#Cercube
+HOST,api.cercube.com,Fake Cydia Tweak
 #Codecademy
 HOST,www.codecademy.com,Fake iAP Policy
 #Shapr3D
