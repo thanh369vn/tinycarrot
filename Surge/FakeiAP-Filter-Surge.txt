@@ -1,4 +1,5 @@
-#Eggzy
+#MuscleBooster
+DOMAIN,menscoach-api.asqq.io
 DOMAIN,subs.platforms.team
 #cercube
 DOMAIN,api.cercube.com

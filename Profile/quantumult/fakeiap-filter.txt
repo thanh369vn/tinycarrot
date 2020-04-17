@@ -1,3 +1,5 @@
+#MuscleBooster
+HOST,menscoach-api.asqq.io,Fake iAP Policy
 #Eggzy
 HOST,subs.platforms.team,Fake iAP Policy
 ######################################
