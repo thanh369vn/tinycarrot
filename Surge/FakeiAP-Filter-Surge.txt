@@ -1,4 +1,6 @@
 #Speak&Translate
+DOMAIN,subscription.ampme.com
+#Speak&Translate
 DOMAIN,api.speak-translate.com
 #MuscleBooster
 DOMAIN,menscoach-api.asqq.io

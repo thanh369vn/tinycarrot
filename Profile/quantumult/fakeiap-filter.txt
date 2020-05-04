@@ -1,3 +1,5 @@
+#AmpMe
+HOST,subscription.ampme.com,Fake iAP Policy
 #Speak&Translate
 HOST,api.speak-translate.com,Fake iAP Policy
 #MuscleBooster
