@@ -49,7 +49,7 @@ DOMAIN,chordify.net
 #Rocka
 DOMAIN,api.rockalearning.com
 #Lensa
-DOMAIN,subscription-service.neuralprisma.com
+DOMAIN,appapi.neuralprisma.com
 #Wattpad
 DOMAIN,api.wattpad.com
 #Pollar

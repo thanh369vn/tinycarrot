@@ -53,7 +53,7 @@ HOST,chordify.net,Fake iAP Policy
 #Rocka
 HOST,api.rockalearning.com,Fake iAP Policy
 #Lensa
-HOST,subscription-service.neuralprisma.com,Fake iAP Policy
+HOST,appapi.neuralprisma.com,Fake iAP Policy
 #Wattpad
 HOST,api.wattpad.com,Fake iAP Policy
 #Funimate
